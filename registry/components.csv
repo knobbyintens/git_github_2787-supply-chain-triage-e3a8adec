@@ -1,0 +1,15 @@
+component_id,service_name,package_name,current_version,environment,owner_team,criticality
+CMP-101,billing-api,log4j-core,2.14.1,production,payments-team,high
+CMP-102,notify-worker,log4j-core,2.17.1,staging,notifications-team,medium
+CMP-103,audit-service,log4j-core,2.20.0,production,compliance-team,high
+CMP-104,order-service,spring-core,5.3.20,production,orders-team,high
+CMP-105,payment-gateway,spring-core,5.3.21,production,payments-team,high
+CMP-106,report-service,spring-core,6.0.10,staging,analytics-team,low
+CMP-107,user-service,jackson-databind,2.13.4,production,identity-team,high
+CMP-108,edge-gateway,openssl,1.1.1,production,platform-team,high
+CMP-109,web-portal,lodash,4.17.20,production,web-team,medium
+CMP-110,mobile-bff,axios,1.6.0,staging,mobile-team,medium
+CMP-111,data-pipeline,requests,2.31.0,production,data-team,high
+CMP-112,admin-portal,django,4.2.7,production,internal-tools-team,medium
+CMP-113,config-loader,pyyaml,6.0.1,production,platform-team,medium
+CMP-114,api-gateway,flask,3.0.0,production,platform-team,high

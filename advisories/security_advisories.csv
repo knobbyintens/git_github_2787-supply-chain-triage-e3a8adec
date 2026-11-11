@@ -1,0 +1,11 @@
+advisory_id,cve_id,package_name,affected_min,affected_max,fixed_version,cvss_score,summary
+ADV-1001,CVE-2026-31191,log4j-core,2.0.0,2.17.0,2.17.1,10.0,Remote code execution via JNDI lookup in the log4j-core message formatter
+ADV-1002,CVE-2026-31822,spring-core,5.3.0,5.3.25,5.3.26,8.1,Request parsing denial of service in spring-core
+ADV-1003,CVE-2026-32044,jackson-databind,2.13.0,2.13.4,2.13.5,9.1,Unsafe polymorphic deserialization in jackson-databind
+ADV-1004,CVE-2026-30113,openssl,1.0.0,1.1.1,1.1.2,7.5,Buffer overrun during the openssl TLS handshake
+ADV-1005,CVE-2026-29218,lodash,4.17.0,4.17.20,4.17.21,6.5,Prototype pollution in the lodash merge helper
+ADV-1006,CVE-2026-30555,axios,0.21.0,1.6.0,1.6.1,9.8,Server-side request forgery in axios redirect handling
+ADV-1007,CVE-2026-33100,requests,2.0.0,2.31.0,2.31.1,8.8,Credential leak on cross-host redirect in requests
+ADV-1008,CVE-2026-33456,pyyaml,5.4.0,6.0.0,6.0.1,7.2,Arbitrary code execution through the pyyaml loader
+ADV-1009,CVE-2026-34001,pillow,9.0.0,10.2.0,10.3.0,9.0,Heap overflow in the pillow image parser
+ADV-1010,CVE-2026-34110,django,4.0.0,4.2.8,4.2.9,5.3,Query parameter injection in the django ORM
