@@ -1,9 +1,0 @@
-advisory_id,decision,owner_teams,priority,fix_version
-ADV-1001,PATCH_NOW,payments-team,P0,2.17.1
-ADV-1002,PATCH_NOW,orders-team;payments-team,P1,5.3.26
-ADV-1003,PATCH_NOW,identity-team,P0,2.13.5
-ADV-1004,PATCH_NOW,platform-team,P1,1.1.2
-ADV-1005,PATCH_SCHEDULED,web-team,P3,4.17.21
-ADV-1006,PATCH_SCHEDULED,mobile-team,P2,1.6.1
-ADV-1007,PATCH_NOW,data-team,P1,2.31.1
-ADV-1010,PATCH_SCHEDULED,internal-tools-team,P3,4.2.9
